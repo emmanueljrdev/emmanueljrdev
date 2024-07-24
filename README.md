@@ -55,7 +55,7 @@ During my journey as a fullstack developer, I created various personal and colla
 
 ## Connect with me🤝:
   </hr>
-  <a href="www.linkedin.com/in/emmanuel-requena-378413242">
+  <a href="https://www.linkedin.com/in/emmanuel-requena-378413242">
    <img align="left" alt="Emmanuel Requena | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="mailto:emmanuelrequena335@gmail.com">
